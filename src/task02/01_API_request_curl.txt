@@ -1,0 +1,6 @@
+curl -X GET https://dictionary.yandex.net/api/v1/dicservice/lookup \
+-G --data-urlencode "key=dict.1.1.20250403T232543Z.4ed7189b9dd293bd.ca948be992d9c3e4f79744f8a4934a334ffb5ccb" \
+-G --data-urlencode "lang=en-ru" \
+-G --data-urlencode "text=cat" \
+-G --data-urlencode "ui=ru" \
+-o 01_API_response_curl.xml

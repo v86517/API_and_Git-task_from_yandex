@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <body>
+  <dicresult code="200" nmt_code="200">
+  </dicresult>
+  <def pos="существительное" ts="skaɪ">
+   <text>
+    sky
+   </text>
+   <tr fr="10" gen="ср" pos="существительное">
+    <text>
+     небо
+    </text>
+    <syn fr="5" pos="существительное">
+     <text>
+      небеса
+     </text>
+    </syn>
+    <syn fr="1" gen="ср" pos="существительное">
+     <text>
+      поднебесье
+     </text>
+    </syn>
+    <mean>
+     <text>
+      heaven
+     </text>
+    </mean>
+    <mean>
+     <text>
+      heavens
+     </text>
+    </mean>
+   </tr>
+   <tr fr="1" gen="м" pos="существительное">
+    <text>
+     небосвод
+    </text>
+    <syn fr="1" gen="м" pos="существительное">
+     <text>
+      небосклон
+     </text>
+    </syn>
+    <syn fr="1" pos="существительное">
+     <text>
+      небесный свод
+     </text>
+    </syn>
+    <mean>
+     <text>
+      firmament
+     </text>
+    </mean>
+    <mean>
+     <text>
+      horizon
+     </text>
+    </mean>
+   </tr>
+   <tr fr="5" gen="м" pos="существительное">
+    <text>
+     Скай
+    </text>
+   </tr>
+  </def>
+  <def pos="прилагательное" ts="skaɪ">
+   <text>
+    sky
+   </text>
+   <tr fr="5" pos="прилагательное">
+    <text>
+     небесный
+    </text>
+    <mean>
+     <text>
+      heavenly
+     </text>
+    </mean>
+   </tr>
+  </def>
+ </body>
+</html>

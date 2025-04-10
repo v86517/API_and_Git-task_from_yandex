@@ -9,7 +9,7 @@ translate_lang = 'en-ru'
 interface = 'ru'
 
 URL = "https://dictionary.yandex.net/api/v1/dicservice/lookup"  #это адрес для обращения к API
-KEY = "dict.1.1.20250403T232543Z.4ed7189b9dd293bd.ca948be992d9c3e4f79744f8a4934a334ffb5ccb" #Это ваш API ключ
+KEY = "dict.1.1.20250403XXXXXXXX.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" #Это ваш API ключ
 
 def get_API_response(mytext):
     params = {

@@ -1,3 +1,6 @@
+curl -X GET https://dictionary.yandex.net/api/v1/dicservice/getLangs \
+-G --data-urlencode "key=dict.1.1.20250403XXXXXXXX.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 curl -X GET https://dictionary.yandex.net/api/v1/dicservice/lookup \
 -G --data-urlencode "key=dict.1.1.20250403XXXXXXXX.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" \
 -G --data-urlencode "lang=en-ru" \
